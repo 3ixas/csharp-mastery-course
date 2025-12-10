@@ -28,7 +28,7 @@ By completing this series, I aim to:
 - Effective debugging techniques
 
 **Progress:**
-- [ ] Section 1: Introduction to C# and .NET
+- [x] Section 1: Introduction to C# and .NET
 - [ ] Section 2: Primitive Types and Expressions
 - [ ] Section 3: Non-Primitive Types
 - [ ] Section 4: Control Flow
