@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "Course1-Funda
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "..\Section03-PrimitiveTypesAndExpressions\Variables\Variables.csproj", "{67C3FC60-D91C-4973-8A1A-8196C81BF4C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConversion", "..\Section03-PrimitiveTypesAndExpressions\TypeConversion\TypeConversion.csproj", "{04F510CE-951B-426B-A5CC-27973CE15A8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,6 +32,10 @@ Global
 		{67C3FC60-D91C-4973-8A1A-8196C81BF4C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67C3FC60-D91C-4973-8A1A-8196C81BF4C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67C3FC60-D91C-4973-8A1A-8196C81BF4C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04F510CE-951B-426B-A5CC-27973CE15A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F510CE-951B-426B-A5CC-27973CE15A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04F510CE-951B-426B-A5CC-27973CE15A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F510CE-951B-426B-A5CC-27973CE15A8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{351656A5-60EB-4FCD-9588-FCAEC0F7D93D} = {5CBC7636-F695-4589-8C31-40A86B99FE70}
