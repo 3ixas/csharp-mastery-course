@@ -7,11 +7,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Course1-Fundamentals", "Cou
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercises", "Exercises", "{351656A5-60EB-4FCD-9588-FCAEC0F7D93D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HelloWorld", "HelloWorld", "{AED716A0-0E78-4F22-BAA7-13205A895E9F}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Section02-GettingStarted", "Section02-GettingStarted", "{AED716A0-0E78-4F22-BAA7-13205A895E9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "Course1-Fundamentals\Exercises\Section02-HelloWorld\HelloWorld\HelloWorld.csproj", "{066EDF1F-E68E-4DD6-9CA3-D16D92318163}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "Course1-Fundamentals\Exercises\Section02-GettingStarted\HelloWorld\HelloWorld.csproj", "{066EDF1F-E68E-4DD6-9CA3-D16D92318163}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "..\Section03-Variables\Variables\Variables.csproj", "{67C3FC60-D91C-4973-8A1A-8196C81BF4C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "..\Section03-PrimitiveTypesAndExpressions\Variables\Variables.csproj", "{67C3FC60-D91C-4973-8A1A-8196C81BF4C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
