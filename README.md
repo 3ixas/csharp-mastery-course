@@ -61,7 +61,7 @@ By completing this series, I aim to:
 
 ---
 
-### Course 3: C# Advanced Topics
+### Course 3: C# Advanced
 **Understand advanced C# features and apply them at work**  
 **Status:** 📝 Not Started | **Started:** - | **Completed:** -
 
@@ -116,7 +116,7 @@ By completing this series, I aim to:
 
 | Course | Status | Progress | Started | Completed |
 |--------|--------|----------|---------|-----------|
-| **1. Beginner** | 🔄 In Progress | 31% | 8th Dec 2025 | - |
+| **1. Fundamentals** | 🔄 In Progress | 31% | 8th Dec 2025 | - |
 | **2. Intermediate** | 📝 Not Started | 0% | - | - |
 | **3. Advanced** | 📝 Not Started | 0% | - | - |
 | **4. Unit Testing** | 📝 Not Started | 0% | - | - |
@@ -134,7 +134,7 @@ csharp-mastery-course/
 │   ├── Section02-PrimitiveTypes/
 │   └── ...
 │
-├── Course2-OOP/                   # Classes, inheritance, polymorphism, interfaces
+├── Course2-Intermediate/                   # Classes, inheritance, polymorphism, interfaces
 │   ├── Section01-Classes/
 │   ├── Section02-Association/
 │   └── ...
