@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "..\Section03-P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "..\Section04-NonPrimitiveTypes\Classes\Classes.csproj", "{5BBAF33D-C91B-45B8-A784-FB1084430157}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "..\Section04-NonPrimitiveTypes\Arrays\Arrays.csproj", "{25C413C0-4B30-4365-A4B4-F0B0CCF49098}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,6 +50,10 @@ Global
 		{5BBAF33D-C91B-45B8-A784-FB1084430157}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BBAF33D-C91B-45B8-A784-FB1084430157}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BBAF33D-C91B-45B8-A784-FB1084430157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25C413C0-4B30-4365-A4B4-F0B0CCF49098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25C413C0-4B30-4365-A4B4-F0B0CCF49098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25C413C0-4B30-4365-A4B4-F0B0CCF49098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25C413C0-4B30-4365-A4B4-F0B0CCF49098}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{351656A5-60EB-4FCD-9588-FCAEC0F7D93D} = {5CBC7636-F695-4589-8C31-40A86B99FE70}
