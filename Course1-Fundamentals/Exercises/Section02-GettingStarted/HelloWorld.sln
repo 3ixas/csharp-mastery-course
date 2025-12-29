@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "..\Section04-Non
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enums", "..\Section04-NonPrimitiveTypes\Enums\Enums.csproj", "{F2BBCD84-7B63-4E07-BBED-4CB00AD489CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceAndValueTypes", "..\Section04-NonPrimitiveTypes\ReferenceAndValueTypes\ReferenceAndValueTypes.csproj", "{0ABBE732-20D5-4176-8BA4-5F4BCF03B55E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,6 +68,10 @@ Global
 		{F2BBCD84-7B63-4E07-BBED-4CB00AD489CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2BBCD84-7B63-4E07-BBED-4CB00AD489CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2BBCD84-7B63-4E07-BBED-4CB00AD489CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ABBE732-20D5-4176-8BA4-5F4BCF03B55E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ABBE732-20D5-4176-8BA4-5F4BCF03B55E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ABBE732-20D5-4176-8BA4-5F4BCF03B55E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ABBE732-20D5-4176-8BA4-5F4BCF03B55E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{351656A5-60EB-4FCD-9588-FCAEC0F7D93D} = {5CBC7636-F695-4589-8C31-40A86B99FE70}
