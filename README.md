@@ -30,7 +30,7 @@ By completing this series, I aim to:
 **Progress:**
 - [x] Section 1: Introduction to C# and .NET
 - [x] Section 2: Primitive Types and Expressions
-- [ ] Section 3: Non-Primitive Types
+- [x] Section 3: Non-Primitive Types
 - [ ] Section 4: Control Flow
 - [ ] Section 5: Arrays and Lists
 - [ ] Section 6: Working with Dates
@@ -116,7 +116,7 @@ By completing this series, I aim to:
 
 | Course | Status | Progress | Started | Completed |
 |--------|--------|----------|---------|-----------|
-| **1. Fundamentals** | 🔄 In Progress | 40% | 8th Dec 2025 | - |
+| **1. Fundamentals** | 🔄 In Progress | 45% | 8th Dec 2025 | - |
 | **2. Intermediate** | 📝 Not Started | 0% | - | - |
 | **3. Advanced** | 📝 Not Started | 0% | - | - |
 | **4. Unit Testing** | 📝 Not Started | 0% | - | - |
