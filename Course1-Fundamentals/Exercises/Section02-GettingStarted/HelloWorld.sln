@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceAndValueTypes", ".
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalStatements", "..\Section05-ControlFlow\ConditionalStatements\ConditionalStatements.csproj", "{09C9CE59-5BFB-4244-A706-9B2B02C2168A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalStatements2", "..\Section05-ControlFlow\ConditionalStatements2\ConditionalStatements2.csproj", "{1A56779C-C3CC-417C-B6B7-6BBE3B34CA81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,6 +80,10 @@ Global
 		{09C9CE59-5BFB-4244-A706-9B2B02C2168A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09C9CE59-5BFB-4244-A706-9B2B02C2168A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09C9CE59-5BFB-4244-A706-9B2B02C2168A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A56779C-C3CC-417C-B6B7-6BBE3B34CA81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A56779C-C3CC-417C-B6B7-6BBE3B34CA81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A56779C-C3CC-417C-B6B7-6BBE3B34CA81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A56779C-C3CC-417C-B6B7-6BBE3B34CA81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{351656A5-60EB-4FCD-9588-FCAEC0F7D93D} = {5CBC7636-F695-4589-8C31-40A86B99FE70}

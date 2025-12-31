@@ -28,15 +28,16 @@ By completing this series, I aim to:
 - Effective debugging techniques
 
 **Progress:**
-- [x] Section 1: Introduction to C# and .NET
-- [x] Section 2: Primitive Types and Expressions
-- [x] Section 3: Non-Primitive Types
-- [ ] Section 4: Control Flow
-- [ ] Section 5: Arrays and Lists
-- [ ] Section 6: Working with Dates
-- [ ] Section 7: Working with Text
-- [ ] Section 8: Working with Files
-- [ ] Section 9: Debugging Applications
+- [x] Section 1: Welcome
+- [x] Section 2: Introduction to C# and .NET
+- [x] Section 3: Primitive Types and Expressions
+- [x] Section 4: Non-Primitive Types
+- [ ] Section 5: Control Flow
+- [ ] Section 6: Arrays and Lists
+- [ ] Section 7: Working with Dates
+- [ ] Section 8: Working with Text
+- [ ] Section 9: Working with Files
+- [ ] Section 10: Debugging Applications
 
 ---
 
@@ -116,7 +117,7 @@ By completing this series, I aim to:
 
 | Course | Status | Progress | Started | Completed |
 |--------|--------|----------|---------|-----------|
-| **1. Fundamentals** | 🔄 In Progress | 45% | 8th Dec 2025 | - |
+| **1. Fundamentals** | 🔄 In Progress | 48% | 8th Dec 2025 | - |
 | **2. Intermediate** | 📝 Not Started | 0% | - | - |
 | **3. Advanced** | 📝 Not Started | 0% | - | - |
 | **4. Unit Testing** | 📝 Not Started | 0% | - | - |
