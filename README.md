@@ -16,10 +16,12 @@ By completing this series, I aim to:
 ## 📚 Course Structure
 
 ### Course 1: C# Fundamentals
+
 **Learn C# Fundamentals by Coding**  
 **Status:** 🔄 In Progress | **Started:** [8th Dec 2025] | **Completed:** -
 
 **What I'm Learning:**
+
 - Fundamentals of C# and .NET Framework
 - Primitive types, expressions, and non-primitive types (classes, structs, arrays, enums)
 - Difference between value types and reference types
@@ -28,6 +30,7 @@ By completing this series, I aim to:
 - Effective debugging techniques
 
 **Progress:**
+
 - [x] Section 1: Welcome
 - [x] Section 2: Introduction to C# and .NET
 - [x] Section 3: Primitive Types and Expressions
@@ -42,10 +45,12 @@ By completing this series, I aim to:
 ---
 
 ### Course 2: C# Intermediate
+
 **Classes, Interfaces and OOP**  
 **Status:** 📝 Not Started | **Started:** - | **Completed:** -
 
 **What I'll Learn:**
+
 - Working with classes, constructors, fields, properties, methods and indexers
 - Encapsulation to reduce impact of change and improve robustness
 - Code reuse through inheritance and composition
@@ -54,6 +59,7 @@ By completing this series, I aim to:
 - Developing loosely-coupled, testable applications with interfaces
 
 **Progress:**
+
 - [ ] Section 1: Classes
 - [ ] Section 2: Association Between Classes
 - [ ] Section 3: Inheritance
@@ -63,10 +69,12 @@ By completing this series, I aim to:
 ---
 
 ### Course 3: C# Advanced
+
 **Understand advanced C# features and apply them at work**  
 **Status:** 📝 Not Started | **Started:** - | **Completed:** -
 
 **What I'll Learn:**
+
 - Exception handling strategies
 - Generics for type-safe code
 - Delegates and events
@@ -77,6 +85,7 @@ By completing this series, I aim to:
 - Asynchronous programming with async/await
 
 **Progress:**
+
 - [ ] Section 1: Generics
 - [ ] Section 2: Delegates
 - [ ] Section 3: Lambda Expressions
@@ -91,9 +100,11 @@ By completing this series, I aim to:
 ---
 
 ### Course 4: Unit Testing for C# Developers
+
 **Status:** 📝 Not Started | **Started:** - | **Completed:** -
 
 **What I'll Learn:**
+
 - Unit testing fundamentals from scratch
 - Writing clean, maintainable, and trustworthy tests
 - Writing loosely-coupled and testable code
@@ -103,6 +114,7 @@ By completing this series, I aim to:
 - Unit testing best practices and anti-patterns to avoid
 
 **Progress:**
+
 - [ ] Section 1: The Fundamentals of Unit Testing
 - [ ] Section 2: Core Unit Testing Techniques
 - [ ] Section 3: Exercises
@@ -115,18 +127,19 @@ By completing this series, I aim to:
 
 ## 📊 Overall Progress
 
-| Course | Status | Progress | Started | Completed |
-|--------|--------|----------|---------|-----------|
-| **1. Fundamentals** | 🔄 In Progress | 48% | 8th Dec 2025 | - |
-| **2. Intermediate** | 📝 Not Started | 0% | - | - |
-| **3. Advanced** | 📝 Not Started | 0% | - | - |
-| **4. Unit Testing** | 📝 Not Started | 0% | - | - |
+| Course              | Status         | Progress | Started      | Completed |
+| ------------------- | -------------- | -------- | ------------ | --------- |
+| **1. Fundamentals** | 🔄 In Progress | 49%      | 8th Dec 2025 | -         |
+| **2. Intermediate** | 📝 Not Started | 0%       | -            | -         |
+| **3. Advanced**     | 📝 Not Started | 0%       | -            | -         |
+| **4. Unit Testing** | 📝 Not Started | 0%       | -            | -         |
 
 **Total:** 0/4 courses completed
 
 ---
 
 ## 📂 Repository Structure
+
 ```
 csharp-mastery-course/
 │
