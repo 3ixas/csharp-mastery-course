@@ -129,7 +129,7 @@ By completing this series, I aim to:
 
 | Course              | Status         | Progress | Started      | Completed |
 | ------------------- | -------------- | -------- | ------------ | --------- |
-| **1. Fundamentals** | 🔄 In Progress | 53%      | 8th Dec 2025 | -         |
+| **1. Fundamentals** | 🔄 In Progress | 54%      | 8th Dec 2025 | -         |
 | **2. Intermediate** | 📝 Not Started | 0%       | -            | -         |
 | **3. Advanced**     | 📝 Not Started | 0%       | -            | -         |
 | **4. Unit Testing** | 📝 Not Started | 0%       | -            | -         |
